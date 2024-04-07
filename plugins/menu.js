@@ -18,13 +18,13 @@ before: `╭─┉┉┉┉┈◈ *INFO* ◈┈┉┉┉┉┉𓆩ꨄ︎𓆪
  ⁝ 🧮 *Total:* ${totalf} + Features
  ⁝ 💠 *Version:* V1.2.1
  ⁝ ⚒️ *Deployed:* ${global.author}
- ⁝ 👨‍💻 *Developer:* Shizo Devs ❤️✨
+ ⁝ 👨‍💻 *Developer:* Moustafa Shiref ❤️✨
 ╰┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉𓆩ꨄ︎𓆪
 %readmore`.trimStart(),
   header: '╭─┉┉┈◈ *%category* ◈┈┉┉𓆩ꨄ︎𓆪 ',
   body: '┇ ☆  %cmd',
   footer: '╰┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉𓆩ꨄ︎𓆪\n',
-   after: `*Made by ♡ Shizo*`,
+   after: `*Made by ♡ Moustafa*`,
   }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
